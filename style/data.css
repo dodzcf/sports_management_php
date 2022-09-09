@@ -1,0 +1,11 @@
+body
+{
+    /* background-color:white ; */
+    
+    background-image: url(https://handoff-cdn.appadvice.com/apptributes/107698953206945330460/1462644762209-sport-3895-xl.jpg);
+}
+.jumbotron
+{
+    background:tomato;
+    border-radius: 20px;
+}
